@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Jobs" skipped="0" tests="3" time="4.64" timestamp="2022-03-23 12:59:34"><testcase name="Search recommended jobs"/><testcase name="Search jobs by keyword"/><testcase name="Search jobs by location"/></testsuite>

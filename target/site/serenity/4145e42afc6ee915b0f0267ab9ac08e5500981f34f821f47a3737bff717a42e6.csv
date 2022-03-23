@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search General","Success show result by job positions","SUCCESS","2022-03-23T00:59:40.4636983+07:00[Asia/Bangkok]","0.0","0.11"
+"Search General","Search by suggested keywords","SUCCESS","2022-03-23T00:59:40.6199585+07:00[Asia/Bangkok]","0.0","0.11"
+"Search General","Failed show result","SUCCESS","2022-03-23T00:59:40.7762167+07:00[Asia/Bangkok]","0.0","0.14"

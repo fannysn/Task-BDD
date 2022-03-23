@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Jobs","Search recommended jobs","SUCCESS","2022-03-23T00:59:34.0290821+07:00[Asia/Bangkok]","0.0","4.35"
+"Jobs","Search jobs by keyword","SUCCESS","2022-03-23T00:59:38.5172164+07:00[Asia/Bangkok]","0.0","0.12"
+"Jobs","Search jobs by location","SUCCESS","2022-03-23T00:59:38.6972583+07:00[Asia/Bangkok]","0.0","0.17"
